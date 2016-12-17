@@ -8,6 +8,8 @@
     3、页面最下面。点击delete this repository。
     4、输入这个项目的名称，点击最下方的按钮，完成删除。
 三、分享本地项目到github
-    1、
-    2、
+    1、提交到本地。
+              项目右键-->team-->共享项目-->git==>下一步==>第一个输入框右边的create==>输入路径和项目名称。确认后提交。
+    2、分享到github
+        项目右键-->team-->remote==>push==>url里输入远程地址，输入用户名和地址-->选择source def(master)，destination def,add spec==>
     3、
