@@ -11,5 +11,5 @@
     1、提交到本地。
               项目右键-->team-->共享项目-->git==>下一步==>第一个输入框右边的create==>输入路径和项目名称。确认后提交。
     2、分享到github
-        项目右键-->team-->remote==>push==>url里输入远程地址，输入用户名和地址-->选择source def(master)，destination def,add spec==>
-    3、
+        项目右键-->team-->remote==>push==>url里输入远程地址，输入用户名和地址-->选择source def(master)，destination def,add spec-->下一步-->完成
+    
