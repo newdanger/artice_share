@@ -1,0 +1,13 @@
+一、进入github主页
+    1、输入网址：https://github.com/
+    2、输入用户名密码。
+
+二、删除github上的项目。
+    1、登陆github到个人主页，点击“Repositories”
+    2、进入要删除的项目里面，点击上方的右边的settings。
+    3、页面最下面。点击delete this repository。
+    4、输入这个项目的名称，点击最下方的按钮，完成删除。
+三、分享本地项目到github
+    1、
+    2、
+    3、
